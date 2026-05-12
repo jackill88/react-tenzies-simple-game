@@ -2,6 +2,10 @@
 
 A small React + Vite implementation of the dice game **Tenzies**.
 
+## Preview
+
+![Tenzies game preview](images/preview.png)
+
 ## About The Game
 
 The goal is to keep rolling until all dice show the same number.
@@ -107,4 +111,3 @@ http://localhost:5173
 
 - The game uses React state to track held dice and rolling values.
 - Confetti is rendered on the win state with an animated canvas.
-
